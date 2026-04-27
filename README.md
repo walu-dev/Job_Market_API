@@ -70,7 +70,7 @@ job_Market_api/
 
 # Setup
 1. Clone repository
-git clone https://github.com/yourusername/job-intel-api.git
+git clone https://github.com/walu-dev/Job_Market_API.git
 cd job-intel-api
 2. Create virtual environment
 python -m venv venv
