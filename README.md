@@ -58,7 +58,7 @@ psycopg2
 python-dotenv
 
 # Project Structure
-job-intel-api/
+job_Market_api/
 │
 ├── db.py              # Database connection
 ├── ingest.py          # Raw data ingestion
